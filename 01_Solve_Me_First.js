@@ -11,5 +11,5 @@ console.log(solveMeFirst(3, 7))
     return a + b
 } 
 
-console.log(solveMeFirst(3, 7))
+console.log(solveMeFirst(1, 2))
 */
